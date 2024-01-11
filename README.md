@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @123peterboy
-- 👀 I’m interested in software and designs, 
-- 🌱 I’m currently learning nodeJs, Golang, wordpress etc..
-- 💞️ I’m looking to collaborate on my project 
-- 📫 reach me on  peterblaq23@gmail.com
-- 😄 Peterblaq
-- ⚡ Fun fact: games, music
-
+- 👋 Hi, I It's PeterBlaq here 🤞,
+- 👀 I am a Software Engineer, Automation is everything to me,
+- I love learning new things everyday from programming languages, programming tools,
+- ⚡ Fun fact: music - automation tools and Games.
+-  123peterboy
 <!---
 123peterboy/123peterboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
